@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!--<rxtools.guyueyang.com.banner.Banner-->
+        <!--android:id="@+id/banner"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="240dp">-->
+    <!--</rxtools.guyueyang.com.banner.Banner>-->
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
